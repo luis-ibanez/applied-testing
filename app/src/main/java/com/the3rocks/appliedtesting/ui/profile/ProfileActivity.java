@@ -50,6 +50,7 @@ public class ProfileActivity extends AppCompatActivity implements ProfilePresent
         ButterKnife.bind(this);
         component().inject(this);
         presenter.setView(this);
+        presenter.loadUser("any");
     }
 
     @Override

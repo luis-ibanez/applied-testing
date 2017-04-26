@@ -47,6 +47,6 @@ public class ProfileRepositoryFakeImpl implements ProfileRepository{
         return new User(
                 StringUtils.randomString(5),
                 StringUtils.randomString(8),
-                "http://placekitten.com/300/300");
+                "ttp://placehold.it/300x300");
     }
 }
