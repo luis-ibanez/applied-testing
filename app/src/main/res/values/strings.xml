@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Applied Testing</string>
+    <string name="user_profile_description">Photo of the user profile</string>
+    <string name="error">Error</string>
+    <string name="connection_error">Connection Problem!</string>
+    <string name="user_not_found_error">The user doesn\'t exist</string>
+    <string name="ok">OK</string>
+
 </resources>
